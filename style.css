@@ -8,4 +8,8 @@
 }
 body{
     background: var(--bg-color);
+    color: #fff;
+}
+a{
+    color: #fff;
 }
